@@ -1,0 +1,15 @@
+# VTube Studio proprietary/user files — never commit these
+sharedassets0.assets
+sharedassets0.assets.*
+Assembly-CSharp.dll
+*.assets
+*.resS
+level0
+resources.assets
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Local backups
+*.bak
